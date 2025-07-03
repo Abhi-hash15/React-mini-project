@@ -15,7 +15,7 @@
 [data-theme='dark'] {
   --background: var(--bg-dark);
   --foreground: var(--text-dark);
-}
+} 
 
 body {
   background-color: var(--background);
